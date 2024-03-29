@@ -76,4 +76,9 @@ result_text = "..."
 result_label = tk.Label(root, text=result_text)
 result_label.grid(row=2, column=0, columnspan=3)
 
+# Quit button
+quit_button = tk.Button(root, text="QUIT", command=root.quit)
+quit_button.grid(row=3, column=0, columnspan=3)
+# Start the application
+
 root.mainloop()
