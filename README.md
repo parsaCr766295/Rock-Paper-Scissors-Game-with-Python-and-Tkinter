@@ -37,4 +37,4 @@ The game can be played by two human players or against the computer.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/parsaCr766295/rock-paper-scissors-game.git
+git clone https://github.com/parsaCr766295/Rock-Paper-Scissors-Game-with-Python-and-Tkinter.git
