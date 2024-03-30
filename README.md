@@ -1,6 +1,7 @@
 # Rock-Paper-Scissors Game with Python and Tkinter
 
 This is a simple Rock-Paper-Scissors game implemented in Python with a graphical user interface using Tkinter.
+This project implements a classic Rock-Paper-Scissors game using Python's Tkinter library for a user-friendly graphical user interface (GUI).
 
 ## Description
 
